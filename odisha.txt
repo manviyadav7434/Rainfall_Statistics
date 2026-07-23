@@ -1,0 +1,26 @@
+Expected rainfall in Odisha in 2025 :
+January   : 8.6   mm
+February  : 12.4  mm
+March     : 14.8  mm
+April     : 32.6  mm
+May       : 68.4  mm
+June      : 334.4 mm
+July      : 156.8 mm
+August    : 285.6 mm
+September : 198.7 mm
+October   : 98.4  mm
+November  : 22.6  mm
+December  : 6.2   mm
+Actual rainfall in Odisha in 2025 :
+January   : 4.2   mm
+February  : 6.8   mm
+March     : 10.3  mm
+April     : 24.9  mm
+May       : 58.7  mm
+June      : 348.2 mm
+July      : 168.4 mm
+August    : 296.3 mm
+September : 205.9 mm
+October   : 91.6  mm
+November  : 19.8  mm
+December  : 5.4   mm

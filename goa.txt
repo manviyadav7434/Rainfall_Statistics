@@ -1,0 +1,26 @@
+Expected rainfall in Goa in 2025 :
+January   : 1.2   mm
+February  : 0.8   mm
+March     : 2.5   mm
+April     : 12.6  mm
+May       : 68.4  mm
+June      : 933.8 mm
+July      : 896.6 mm
+August    : 487.6 mm
+September : 310.5 mm
+October   : 265.8 mm
+November  : 22.6  mm
+December  : 4.1   mm
+Actual rainfall in Goa in 2025 :
+January   : 0.4   mm
+February  : 0.2   mm
+March     : 1.1   mm
+April     : 7.3   mm
+May       : 41.2  mm
+June      : 488.3 mm
+July      : 684.7 mm
+August    : 420.7 mm
+September : 198.7 mm
+October   : 76.9  mm
+November  : 13.8  mm
+December  : 2.3   mm

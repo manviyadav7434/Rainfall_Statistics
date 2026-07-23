@@ -1,0 +1,26 @@
+Expected rainfall in Chhattisgarh in 2025 :
+January   : 11.4  mm
+February  : 15.8  mm
+March     : 13.2  mm
+April     : 14.9  mm
+May       : 22.6  mm
+June      : 195.3 mm
+July      : 320.7 mm
+August    : 285.4 mm
+September : 165.8 mm
+October   : 62.4  mm
+November  : 12.1  mm
+December  : 5.8   mm
+Actual rainfall in Chhattisgarh in 2025 :
+January   : 7.6   mm
+February  : 9.9   mm
+March     : 8.1   mm
+April     : 9.3   mm
+May       : 14.8  mm 
+June      : 78.1  mm
+July      : 215.4 mm
+August    : 178.9 mm
+September : 102.3 mm
+October   : 38.7  mm
+November  : 7.4   mm
+December  : 3.4   mm

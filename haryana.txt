@@ -1,0 +1,26 @@
+Expected rainfall in Haryana in 2025 :
+January   : 18.4  mm
+February  : 21.6  mm
+March     : 14.9  mm
+April     : 8.7   mm
+May       : 16.3  mm
+June      : 62.8  mm
+July      : 175.4 mm
+August    : 168.9 mm
+September : 94.6  mm
+October   : 12.4  mm
+November  : 4.2   mm
+December  : 9.8   mm
+Actual rainfall in Haryana in 2025 :
+January   : 14.2  mm
+February  : 16.8  mm
+March     : 11.3  mm
+April     : 6.4   mm
+May       : 12.1  mm
+June      : 41.5  mm
+July      : 112.7 mm
+August    : 106.3 mm
+September : 61.8  mm
+October   : 8.7   mm
+November  : 2.9   mm
+December  : 7.1   mm

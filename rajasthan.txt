@@ -1,0 +1,26 @@
+Expected rainfall in Rajasthan in 2025 :
+January   : 4.2   mm
+February  : 3.6   mm
+March     : 2.8   mm
+April     : 4.6   mm
+May       : 8.4   mm
+June      : 45.6  mm
+July      : 118.4 mm
+August    : 156.8 mm
+September : 98.6  mm
+October   : 12.4  mm
+November  : 3.8   mm
+December  : 3.2   mm
+Actual rainfall in Rajasthan in 2025 :
+January   : 6.8   mm
+February  : 5.9   mm
+March     : 4.1   mm
+April     : 6.2   mm
+May       : 14.7  mm
+June      : 98.3  mm
+July      : 89.6  mm
+August    : 118.4 mm
+September : 76.3  mm
+October   : 9.8   mm
+November  : 2.9   mm
+December  : 2.4   mm

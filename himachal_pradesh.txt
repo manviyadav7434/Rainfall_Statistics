@@ -1,0 +1,26 @@
+Expected rainfall in Himachal Pradesh in 2025 :
+January   : 62.4  mm
+February  : 78.9  mm
+March     : 68.2  mm
+April     : 42.6  mm
+May       : 38.4  mm
+June      : 108.7 mm
+July      : 246.5 mm
+August    : 218.9 mm
+September : 160.3 mm
+October   : 24.6  mm
+November  : 12.8  mm
+December  : 38.1  mm
+Actual rainfall in Himachal Pradesh in 2025 :
+January   : 48.7  mm
+February  : 61.3  mm
+March     : 54.9  mm
+April     : 33.1  mm
+May       : 29.8  mm
+June      : 79.4  mm
+July      : 198.3 mm
+August    : 165.2 mm
+September : 118.7 mm
+October   : 17.9  mm
+November  : 8.4   mm
+December  : 26.4  mm

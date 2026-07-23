@@ -1,0 +1,26 @@
+Expected rainfall in Tamil Nadu in 2025 :
+January   : 18.4  mm
+February  : 8.6   mm
+March     : 12.4  mm
+April     : 42.6  mm
+May       : 68.9  mm
+June      : 50.8  mm
+July      : 78.4  mm
+August    : 98.6  mm
+September : 118.7 mm
+October   : 285.6 mm
+November  : 342.8 mm
+December  : 168.4 mm
+Actual rainfall in Tamil Nadu in 2025 :
+January   : 21.6  mm
+February  : 9.8   mm
+March     : 13.7  mm
+April     : 46.3  mm
+May       : 72.4  mm
+June      : 72.1  mm
+July      : 85.6  mm
+August    : 96.3  mm
+September : 112.4 mm
+October   : 276.8 mm
+November  : 331.6 mm
+December  : 158.9 mm

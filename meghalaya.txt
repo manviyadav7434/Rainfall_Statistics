@@ -1,0 +1,26 @@
+Expected rainfall in Meghalaya in 2025 :
+January   : 14.2  mm
+February  : 9.8   mm
+March     : 68.4  mm
+April     : 218.6 mm
+May       : 385.7 mm
+June      : 420.3 mm
+July      : 465.2 mm
+August    : 398.6 mm
+September : 285.4 mm
+October   : 118.9 mm
+November  : 22.6  mm
+December  : 9.4   mm
+Actual rainfall in Meghalaya in 2025 :
+January   : 9.6   mm
+February  : 0.0   mm
+March     : 44.7  mm
+April     : 152.3 mm
+May       : 248.9 mm
+June      : 273.8 mm
+July      : 302.6 mm
+August    : 258.4 mm
+September : 186.7 mm
+October   : 76.3  mm
+November  : 14.8  mm
+December  : 6.1   mm

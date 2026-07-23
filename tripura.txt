@@ -1,0 +1,26 @@
+Expected rainfall in Tripura in 2025 :
+January   : 9.8   mm
+February  : 16.4  mm
+March     : 48.6  mm
+April     : 168.3 mm
+May       : 285.7 mm
+June      : 348.9 mm
+July      : 385.2 mm
+August    : 298.6 mm
+September : 218.4 mm
+October   : 98.7  mm
+November  : 18.6  mm
+December  : 7.4   mm
+Actual rainfall in Tripura in 2025 :
+January   : 6.4   mm
+February  : 11.2  mm
+March     : 34.7  mm
+April     : 118.9 mm
+May       : 198.4 mm
+June      : 218.6 mm
+July      : 268.4 mm
+August    : 208.7 mm
+September : 152.9 mm
+October   : 68.4  mm
+November  : 12.8  mm
+December  : 4.9   mm

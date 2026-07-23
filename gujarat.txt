@@ -1,0 +1,26 @@
+Expected rainfall in Gujarat in 2025 :
+January   : 1.8   mm
+February  : 0.9   mm
+March     : 3.2   mm
+April     : 5.4   mm
+May       : 12.6  mm
+June      : 168.4 mm
+July      : 145.6 mm
+August    : 178.9 mm
+September : 98.7  mm
+October   : 24.5  mm
+November  : 4.6   mm
+December  : 1.4   mm
+Actual rainfall in Gujarat in 2025 :
+January   : 2.4   mm
+February  : 1.3   mm
+March     : 6.8   mm
+April     : 0.7   mm
+May       : 24.3  mm
+June      : 139.9 mm
+July      : 118.2 mm
+August    : 152.4 mm
+September : 81.3  mm
+October   : 19.8  mm
+November  : 3.2   mm
+December  : 0.9   mm

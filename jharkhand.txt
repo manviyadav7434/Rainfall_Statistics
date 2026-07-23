@@ -1,0 +1,26 @@
+Expected rainfall in Jharkhand in 2025 :
+January   : 14.6  mm
+February  : 18.3  mm
+March     : 15.7  mm
+April     : 12.4  mm
+May       : 34.8  mm
+June      : 178.9 mm
+July      : 285.6 mm
+August    : 268.3 mm
+September : 186.4 mm
+October   : 68.7  mm
+November  : 11.2  mm
+December  : 5.9   mm
+Actual rainfall in Jharkhand in 2025 :
+January   : 9.8   mm
+February  : 12.4  mm
+March     : 10.6  mm
+April     : 8.1   mm
+May       : 22.6  mm
+June      : 78.3  mm
+July      : 124.8 mm
+August    : 132.7 mm
+September : 89.5  mm
+October   : 34.2  mm
+November  : 6.4   mm
+December  : 3.6   mm

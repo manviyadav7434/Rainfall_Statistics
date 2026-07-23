@@ -1,0 +1,26 @@
+Expected rainfall in Madhya Pradesh in 2025 :
+January   : 8.4   mm
+February  : 12.6  mm
+March     : 9.8   mm
+April     : 6.2   mm
+May       : 18.7  mm
+June      : 165.4 mm
+July      : 289.6 mm
+August    : 258.9 mm
+September : 168.3 mm
+October   : 42.6  mm
+November  : 8.9   mm
+December  : 4.2   mm
+Actual rainfall in Madhya Pradesh in 2025 :
+January   : 6.7   mm
+February  : 9.8   mm
+March     : 7.4   mm
+April     : 4.9   mm
+May       : 14.2  mm
+June      : 115.8 mm
+July      : 246.4 mm
+August    : 219.8 mm
+September : 143.1 mm
+October   : 36.2  mm
+November  : 7.6   mm
+December  : 3.6   mm

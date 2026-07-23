@@ -1,0 +1,26 @@
+Expected rainfall in Bihar in 2025 :
+January   : 9.6   mm
+February  : 14.3  mm
+March     : 12.8  mm
+April     : 18.5  mm
+May       : 48.9  mm
+June      : 150.2 mm
+July      : 280.4 mm
+August    : 265.7 mm
+September : 195.3 mm
+October   : 88.4  mm
+November  : 15.2  mm
+December  : 6.8   mm
+Actual rainfall in Bihar in 2025 :
+January   : 6.2   mm
+February  : 9.1   mm
+March     : 7.4   mm
+April     : 11.7  mm
+May       : 29.3  mm
+June      : 88.9  mm
+July      : 168.5 mm
+August    : 159.8 mm
+September : 117.6 mm
+October   : 52.9  mm
+November  : 9.4   mm
+December  : 4.1   mm

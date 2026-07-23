@@ -1,0 +1,26 @@
+Expected rainfall in Telangana in 2025 :
+January   : 4.2   mm
+February  : 6.8   mm
+March     : 12.4  mm
+April     : 24.6  mm
+May       : 42.8  mm
+June      : 145.6 mm
+July      : 230.0 mm
+August    : 198.7 mm
+September : 168.9 mm
+October   : 84.6  mm
+November  : 18.4  mm
+December  : 5.6   mm
+Actual rainfall in Telangana in 2025 :
+January   : 2.6   mm
+February  : 4.1   mm
+March     : 8.7   mm
+April     : 17.3  mm
+May       : 29.6  mm
+June      : 78.4  mm
+July      : 131.8 mm
+August    : 128.4 mm
+September : 109.6 mm
+October   : 54.8  mm
+November  : 11.9  mm
+December  : 3.4   mm

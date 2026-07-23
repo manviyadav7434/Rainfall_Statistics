@@ -1,0 +1,26 @@
+Expected rainfall in Karnataka in 2025 :
+January   : 4.2   mm
+February  : 6.1   mm
+March     : 14.8  mm
+April     : 42.6  mm
+May       : 118.4 mm
+June      : 74.9  mm
+July      : 118.4 mm
+August    : 132.7 mm
+September : 168.3 mm
+October   : 148.5 mm
+November  : 52.4  mm
+December  : 8.6   mm
+Actual rainfall in Karnataka in 2025 :
+January   : 5.8   mm
+February  : 7.9   mm
+March     : 21.3  mm
+April     : 58.9  mm
+May       : 156.7 mm
+June      : 32.2  mm
+July      : 89.4  mm
+August    : 98.6  mm
+September : 124.9 mm
+October   : 112.7 mm
+November  : 38.9  mm
+December  : 6.2   mm

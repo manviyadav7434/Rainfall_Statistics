@@ -1,0 +1,26 @@
+Expected rainfall in Nagaland in 2025 :
+January   : 3.2   mm
+February  : 2.5   mm
+March     : 1.1   mm
+April     : 68.4  mm
+May       : 148.7 mm
+June      : 450.0 mm
+July      : 165.8 mm
+August    : 198.6 mm
+September : 156.3 mm
+October   : 62.8  mm
+November  : 12.4  mm
+December  : 3.6   mm
+Actual rainfall in Nagaland in 2025 :
+January   : 1.9   mm
+February  : 0.0   mm
+March     : 2.8   mm
+April     : 28.6  mm
+May       : 74.3  mm
+June      : 190.0 mm
+July      : 104.4 mm
+August    : 138.9 mm
+September : 109.7 mm
+October   : 43.6  mm
+November  : 8.7   mm
+December  : 2.1   mm

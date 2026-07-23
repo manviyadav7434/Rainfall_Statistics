@@ -1,0 +1,26 @@
+Expected rainfall in West Bengal in 2025 :
+January   : 12.4  mm
+February  : 22.6  mm
+March     : 32.8  mm
+April     : 68.4  mm
+May       : 148.6 mm
+June      : 285.7 mm
+July      : 348.9 mm
+August    : 318.4 mm
+September : 265.3 mm
+October   : 128.6 mm
+November  : 24.7  mm
+December  : 8.9   mm
+Actual rainfall in West Bengal in 2025 :
+January   : 8.7   mm
+February  : 16.3  mm
+March     : 24.6  mm
+April     : 51.7  mm
+May       : 118.9 mm
+June      : 198.4 mm
+July      : 312.6 mm
+August    : 268.9 mm
+September : 218.7 mm
+October   : 98.4  mm
+November  : 18.3  mm
+December  : 6.2   mm

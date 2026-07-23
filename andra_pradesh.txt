@@ -1,0 +1,26 @@
+Expected rainfall in Andra Pradesh in 2025 : 
+January   : 7.2   mm
+February  : 11.0  mm
+March     : 16.4  mm
+April     : 21.9  mm
+May       : 42.7  mm
+June      : 114.6 mm
+July      : 145.3 mm
+August    : 155.8 mm
+September : 164.2 mm
+October   : 143.9 mm
+November  : 64.7  mm
+ December  : 17.3  mm
+Actual rainfall in Andra Pradesh in 2025 : 
+January   : 4.1   mm
+February  : 6.5   mm
+March     : 9.8   mm
+April     : 10.3  mm
+May       : 24.3  mm
+June      : 58.2  mm
+July      : 76.9  mm
+August    : 84.6  mm
+September : 93.5  mm
+October   : 79.1  mm
+November  : 34.8  mm
+December  : 9.6   mm

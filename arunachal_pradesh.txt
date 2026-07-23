@@ -1,0 +1,26 @@
+Expected rainfall in Arunachal Pradesh in 2025 :
+January   : 22.4  mm
+February  : 33.7  mm
+March     : 68.9  mm
+April     : 158.3 mm
+May       : 248.6 mm
+June      : 254.0 mm
+July      : 380.5 mm
+August    : 395.2 mm
+September : 298.7 mm
+October   : 148.9 mm
+November  : 38.4  mm
+December  : 14.2  mm
+Actual rainfall in Arunachal Pradesh in 2025 :
+January   : 14.6  mm
+February  : 21.2  mm
+March     : 42.5  mm
+April     : 89.7  mm
+May       : 137.2 mm 
+June      : 145.8 mm
+July      : 205.4 mm
+August    : 218.9 mm
+September : 168.3 mm
+October   : 79.6  mm
+November  : 21.7  mm
+December  : 8.3   mm

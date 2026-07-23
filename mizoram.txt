@@ -1,0 +1,26 @@
+Expected rainfall in Mizoram in 2025 :
+January   : 8.4   mm
+February  : 12.6  mm
+March     : 38.4  mm
+April     : 128.7 mm
+May       : 268.3 mm
+June      : 348.6 mm
+July      : 385.4 mm
+August    : 298.7 mm
+September : 218.9 mm
+October   : 88.4  mm
+November  : 18.7  mm
+December  : 6.8   mm
+Actual rainfall in Mizoram in 2025 :
+January   : 5.9   mm
+February  : 8.7   mm
+March     : 27.6  mm
+April     : 91.4  mm
+May       : 189.6 mm
+June      : 245.8 mm
+July      : 271.9 mm
+August    : 210.4 mm
+September : 154.6 mm
+October   : 62.3  mm
+November  : 13.2  mm
+December  : 4.7   mm

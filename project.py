@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 
 with open("andra_pradesh.txt" , "w") as f1 :
     f1.write("Expected rainfall in Andra Pradesh in 2025 : \n")
@@ -815,18 +816,37 @@ if to_do == 1:
             else:
                 values_expected.append(value_1)
 
-    print(values_actual)
-    print(values_expected)
-
     wettest_value_1 = max(values_actual)
     index_1 = values_actual.index(wettest_value_1)
     wettest_month_1 = months_actual[index_1]
     driest_value_1 = min(values_actual)
+
     index_2 = values_actual.index(driest_value_1)
     driest_month_1 = months_actual[index_2]
 
+    avg = sum(values_actual)/12
+    range_rainfall = wettest_value_1 - driest_value_1
+
+    x = np.arrange(len(months_actual))
+    width = 0.4
+    plt.figure(figsize = (8,5), facecolor = "#ede395")
+    plt.bar(x - width/2, values_expected, width, label = "Expected rainfall", color = "#596624", edgecolor = "#060801", linewidth = 1)
+    plt.bar(x + width/2, values_actual, width, label = "Actual rainfall", color = "#337f87", edgecolor = "#060801", linewidth = 1)
+    plt.title(f"Rainfall analysis of {state} in 2025", fontsize = 16, fontweight = "bold")
+    plt.xlabel("Months", fontsize = 12)
+    plt.ylabel("Rainfall (in mm)", fontsize = 12)
+    plt.ylim(0, wettest_value_1)
+    plt.xticks(x, months_actual)
+    plt.legend()
+
+    ax = plt.gca()
+    ax.set_facecolor("#ede395")
+    plt.show()
+
     print(f"Wettest month of {state} in 2025 was {wettest_month_1} with {wettest_value_1} mm of rain.")
     print(f"Driest month of {state} in 2025 was {driest_month_1} with {driest_value_1} mm of rain.")
+    print(f"Average rainfall in {state} in 2025 was {avg}.")
+    print(f"Range of rainfall in {state} in 2025 was {range_rainfall}.")
 
 elif to_do == 2:
     state_1 = input("Enter the name of the first state: ")

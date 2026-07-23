@@ -1,0 +1,26 @@
+Expected rainfall in Maharashtra in 2025 :
+January   : 2.4   mm
+February  : 1.8   mm
+March     : 4.6   mm
+April     : 12.3  mm
+May       : 48.7  mm
+June      : 209.8 mm
+July      : 385.6 mm
+August    : 298.4 mm
+September : 186.7 mm
+October   : 68.5  mm
+November  : 14.2  mm
+December  : 3.8   mm
+Actual rainfall in Maharashtra in 2025 :
+January   : 3.1   mm
+February  : 2.3   mm
+March     : 5.9   mm
+April     : 15.8  mm
+May       : 62.4  mm
+June      : 105.8 mm
+July      : 231.4 mm
+August    : 178.9 mm
+September : 112.3 mm
+October   : 41.6  mm
+November  : 8.6   mm
+December  : 2.4   mm

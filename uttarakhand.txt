@@ -1,0 +1,26 @@
+Expected rainfall in Uttarakhand in 2025 :
+January   : 42.6  mm
+February  : 58.9  mm
+March     : 48.4  mm
+April     : 28.6  mm
+May       : 42.8  mm
+June      : 268.4 mm
+July      : 385.6 mm
+August    : 348.9 mm
+September : 186.7 mm
+October   : 32.6  mm
+November  : 12.4  mm
+December  : 24.8  mm
+Actual rainfall in Uttarakhand in 2025 :
+January   : 34.8  mm
+February  : 46.3  mm
+March     : 38.7  mm
+April     : 22.4  mm
+May       : 33.6  mm
+June      : 189.7 mm
+July      : 312.9 mm
+August    : 268.4 mm
+September : 142.3 mm
+October   : 24.8  mm
+November  : 9.6   mm
+December  : 18.9  mm

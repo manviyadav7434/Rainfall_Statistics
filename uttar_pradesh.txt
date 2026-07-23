@@ -1,0 +1,26 @@
+Expected rainfall in Uttar Pradesh in 2025 :
+January   : 12.6  mm
+February  : 16.8  mm
+March     : 8.4   mm
+April     : 6.2   mm
+May       : 14.8  mm
+June      : 90.4  mm
+July      : 245.6 mm
+August    : 268.9 mm
+September : 142.6 mm
+October   : 24.8  mm
+November  : 4.6   mm
+December  : 8.9   mm
+Actual rainfall in Uttar Pradesh in 2025 :
+January   : 8.4   mm
+February  : 11.2  mm
+March     : 5.6   mm
+April     : 4.1   mm
+May       : 9.7   mm
+June      : 38.9  mm
+July      : 168.7 mm
+August    : 184.3 mm
+September : 97.8  mm
+October   : 17.1  mm
+November  : 3.2   mm
+December  : 6.4   mm

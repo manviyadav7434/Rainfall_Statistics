@@ -1,0 +1,26 @@
+Expected rainfall in Sikkim in 2025 :
+January   : 8.4   mm
+February  : 12.6  mm
+March     : 24.8  mm
+April     : 68.9  mm
+May       : 245.6 mm
+June      : 440.0 mm
+July      : 385.6 mm
+August    : 365.2 mm
+September : 285.9 mm
+October   : 98.4  mm
+November  : 18.7  mm
+December  : 6.8   mm
+Actual rainfall in Sikkim in 2025 :
+January   : 0.4   mm
+February  : 0.6   mm
+March     : 14.2  mm
+April     : 52.3  mm
+May       : 218.7 mm
+June      : 514.8 mm
+July      : 428.9 mm
+August    : 398.4 mm
+September : 302.6 mm
+October   : 89.6  mm
+November  : 14.2  mm
+December  : 3.9   mm
