@@ -794,10 +794,15 @@ to_do = int(input("Enter your choice (1 or 2): "))
 if to_do == 1:
     state = input("Enter the name of the state: ")
     state_list = state.lower().replace(" ", "_")
-    with open(f"{state_list}.txt", "r") as file :
-        content = file.readlines()
-        for line in content:
-            print(line.strip())
+    try :
+        with open(f"{state_list}.txt", "r") as file :
+            content = file.readlines()
+            for line in content:
+                print(line.strip())
+    except FileNotFoundError :
+        print(f"{state} is not a state in India, check spelling again.")
+        raise SystemExit
+    
     print()
     months_actual = []
     values_actual = []
@@ -854,11 +859,15 @@ elif to_do == 2:
     state_2 = input("Enter the name of the second state: ")
     state_1 = state_1.lower().replace(" ", "_")
     state_2 = state_2.lower().replace(" ", "_")
-    with open(f"{state_1}.txt", "r") as file_2, open(f"{state_2}.txt", "r") as file_3:
-        content_2 = file_2.readlines()
-        content_3 = file_3.readlines()
-        for i in range(len(content_2)):
-            print(f"{content_2[i].strip()} | {content_3[i].strip()}")
+    try :
+        with open(f"{state_1}.txt", "r") as file_2, open(f"{state_2}.txt", "r") as file_3:
+            content_2 = file_2.readlines()
+            content_3 = file_3.readlines()
+            for i in range(len(content_2)):
+                print(f"{content_2[i].strip()} | {content_3[i].strip()}")
+    except :
+        print("Either of the states is invalid, check spelling")
+        raise SystemExit
 
     print()
     months_actual_1 = []
