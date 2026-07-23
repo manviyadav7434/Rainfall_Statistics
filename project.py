@@ -326,6 +326,7 @@ with open("kerala.txt" , "w") as f12 :
     f12.write("Actual rainfall in Kerala in 2025 :\n")
     f12.write("January   : 9.7   mm\n")
     f12.write("February  : 14.2  mm\n")
+    f12.write("March     : 32.8  mm\n")
     f12.write("April     : 96.4  mm\n")
     f12.write("May       : 178.3 mm\n")
     f12.write("June      : 653.6 mm\n")
@@ -824,8 +825,8 @@ if to_do == 1:
     index_2 = values_actual.index(driest_value_1)
     driest_month_1 = months_actual[index_2]
 
-    avg = sum(values_actual)/12
-    range_rainfall = wettest_value_1 - driest_value_1
+    avg = round(sum(values_actual)/12, 2)
+    range_rainfall = round((wettest_value_1 - driest_value_1), 2)
 
     x = np.arange(len(months_actual))
     width = 0.4
@@ -858,6 +859,76 @@ elif to_do == 2:
         content_3 = file_3.readlines()
         for i in range(len(content_2)):
             print(f"{content_2[i].strip()} | {content_3[i].strip()}")
+
+    print()
+    months_actual_1 = []
+    values_actual_1 = []
+    values_actual_2 = []
+    values_expected_1 = []
+    values_expected_2 = []
+    found_actual_1 = False
+    for line_2 in content_2 :
+        if line_2.startswith("Actual rainfall") :
+            found_actual_1 = True
+            continue
+        if ":" in line_2 and not line_2.startswith(("Expected rainfall", "Actual rainfall")) :
+            month_2, value_2 = line_2.split(":", 1)
+            month_3 = month_2.strip()
+            value_3 = float(value_2.split()[0])
+            if found_actual_1 :
+                months_actual_1.append(month_2)
+                values_actual_1.append(value_3)
+            else :
+                values_expected_1.append(value_3)
+    found_actual_2 = False
+    for line_3 in content_3 :
+        if line_3.startswith("Actual rainfall"):
+            found_actual_2 = True
+            continue
+        if ":" in line_3 and not line_3.startswith(("Expected rainfall", "Actual rainfall")) :
+            month_4, value_4 = line_3.split(":", 1)
+            value_5 = float(value_4.split()[0])
+            if found_actual_2 :
+                values_actual_2.append(value_5)
+            else :
+                values_expected_2.append(value_5)
+
+    sum_1 = sum(values_actual_1)
+    sum_2 = sum(values_actual_2)
+    sum_rain = round(max(sum_1, sum_2), 2)
+
+    avg_1 = sum_1/12
+    avg_2 = sum_2/12
+    max_avg = round(max(avg_1, avg_2), 2)
+
+    x = np.arange(len(months_actual_1))
+    width = 0.4
+    
+    plt.figure(figsize = (8,5), facecolor = "#ede395")
+    plt.bar(x - width/2, values_actual_1, width, label = f"{state_1}", color = "#596624", edgecolor = "#060801", linewidth = 1)
+    plt.bar(x + width/2, values_actual_2, width, label = f"{state_2}", color = "#337f87", edgecolor = "#060801", linewidth = 1)
+    plt.title(f"Rainfall comparison of {state_1} and {state_2} in 2025", fontsize = 16, fontweight = "bold")
+    plt.xlabel("Months", fontsize = 12)
+    plt.ylabel("Rainfall (in mm)", fontsize = 12)
+    plt.ylim(0, sum_rain)
+    plt.xticks(x, months_actual_1, rotation = 45)
+    plt.legend()
+    
+    ax = plt.gca()
+    ax.set_facecolor("#ede395")
+    plt.show()
+
+    if sum_rain == sum_1 :
+        print(f"More rain poured in {state_1} in 2025.")
+    else :
+        print(f"More rain poured in {state_2} in 2025.")
+        
+
+    if max_avg == avg_1 :
+        print(f"Average rainfall was more in {state_1} than {state_2} in 2025.")
+    else :
+        print(f"Average rainfall was more in {state_2} than {state_1} in 2025.")
+    
 
 else :
     print("Enter either 1 or 2 based on your task.")
