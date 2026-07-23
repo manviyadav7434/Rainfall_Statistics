@@ -827,7 +827,7 @@ if to_do == 1:
     avg = sum(values_actual)/12
     range_rainfall = wettest_value_1 - driest_value_1
 
-    x = np.arrange(len(months_actual))
+    x = np.arange(len(months_actual))
     width = 0.4
     plt.figure(figsize = (8,5), facecolor = "#ede395")
     plt.bar(x - width/2, values_expected, width, label = "Expected rainfall", color = "#596624", edgecolor = "#060801", linewidth = 1)
@@ -836,7 +836,7 @@ if to_do == 1:
     plt.xlabel("Months", fontsize = 12)
     plt.ylabel("Rainfall (in mm)", fontsize = 12)
     plt.ylim(0, wettest_value_1)
-    plt.xticks(x, months_actual)
+    plt.xticks(x, months_actual, rotation = 45)
     plt.legend()
 
     ax = plt.gca()
@@ -845,8 +845,8 @@ if to_do == 1:
 
     print(f"Wettest month of {state} in 2025 was {wettest_month_1} with {wettest_value_1} mm of rain.")
     print(f"Driest month of {state} in 2025 was {driest_month_1} with {driest_value_1} mm of rain.")
-    print(f"Average rainfall in {state} in 2025 was {avg}.")
-    print(f"Range of rainfall in {state} in 2025 was {range_rainfall}.")
+    print(f"Average rainfall in {state} in 2025 was {avg} mm.")
+    print(f"Range of rainfall in {state} in 2025 was {range_rainfall} mm.")
 
 elif to_do == 2:
     state_1 = input("Enter the name of the first state: ")
