@@ -844,7 +844,7 @@ if to_do == 1:
     plt.title(f"Rainfall analysis of {state} in 2025", fontsize = 16, fontweight = "bold")
     plt.xlabel("Months", fontsize = 12)
     plt.ylabel("Rainfall (in mm)", fontsize = 12)
-    plt.ylim(0, wettest_value_1+20)
+    plt.ylim(0, max(values_expected) + 50)
     plt.xticks(x, months_actual, rotation = 45)
     plt.legend()
 
@@ -922,7 +922,7 @@ elif to_do == 2:
     plt.title(f"Rainfall comparison of {state_1} and {state_2} in 2025", fontsize = 16, fontweight = "bold")
     plt.xlabel("Months", fontsize = 12)
     plt.ylabel("Rainfall (in mm)", fontsize = 12)
-    plt.ylim(0, sum_rain+20)
+    plt.ylim(0, sum_rain + 50)
     plt.xticks(x, months_actual_1, rotation = 45)
     plt.legend()
     
