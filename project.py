@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-with open("andra_pradesh.txt" , "w") as f1 :
+with open("andhra_pradesh.txt" , "w") as f1 :
     f1.write("Expected rainfall in Andra Pradesh in 2025 : \n")
     f1.write("January   : 7.2   mm\n")
     f1.write("February  : 11.0  mm\n")
