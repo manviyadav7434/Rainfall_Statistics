@@ -785,6 +785,9 @@ with open("west_bengal.txt" , "w") as f28 :
     f28.write("November  : 18.3  mm\n")
     f28.write("December  : 6.2   mm\n")
 
+print("="*20)
+print("Rainfall Statistics")
+print("="*20)
 print("What do you want to do?")
 print("1. Analyse rainfall statistics of a state in year 2025 ")
 print("2. Compare rainfall statistics of two states in year 2025 ")
